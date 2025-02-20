@@ -1,0 +1,1 @@
+low2high_GAN.m file contains the necessary code to preprocess as well as to train the low2highGAN model. The dataset file contains the data from the low rsolution Raman spetrometer and high resolution Raman data from the high-resolution Raman spectrometer.
